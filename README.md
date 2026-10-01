@@ -1,4 +1,4 @@
-# practice_repo1
+# practice-repo1
 For training purposes
 
 ## Setup
